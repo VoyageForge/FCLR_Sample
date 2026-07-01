@@ -1,0 +1,3 @@
+[submodule "Assets/ForgeCLR"]
+	path = Assets/ForgeCLR
+	url = git@github.com:VoyageForge/ForgeCLR.git
